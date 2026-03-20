@@ -79,7 +79,7 @@ Researched **UPI / Online Payment Fraud**, wrote a detailed case study with a st
 
 ## 🔗 Google Form — Digital Literacy Quiz
 
-> 📝 **Quiz Link:** [Click here to take the quiz](#) ← *(Replace with your actual Google Form link)*
+> 📝 **Quiz Link:** [[Click here to take the quiz](https://forms.gle/3uWknvBBwzPvAzLQ7)](#)
 
 ---
 
